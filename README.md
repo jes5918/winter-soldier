@@ -134,17 +134,17 @@ https://optimistic-swirles-b97b6b.netlify.app/
 
 - 일정관리
 
-![](README.assets/월간 달력.png)
+![](README.assets/월간달력.png)
 
-![](README.assets/주간 달력.png)
+![](README.assets/주간달력.png)
 
-![](README.assets/일정 추가.png)
+![](README.assets/일정추가.png)
 
 
 
 - 오늘의 뉴스
 
-![](README.assets/오늘의 뉴스.png)
+![](README.assets/오늘의뉴스.png)
 
 
 
@@ -156,7 +156,7 @@ https://optimistic-swirles-b97b6b.netlify.app/
 
 - 코로나, 날씨
 
-![](README.assets/코로나, 날씨.png)
+![](README.assets/코로나날씨.png)
 
 
 
